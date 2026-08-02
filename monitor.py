@@ -16,9 +16,10 @@ from datetime import datetime
 from urllib.parse import urljoin, urlparse
 
 import requests
-from bs4 import BeautifulSoup
+import xml.etree.ElementTree as ET
 
 BASE_URL = "https://www.ziyuanzu.com"
+FEED_URL = "https://www.ziyuanzu.com/feed.xml"
 TIMEOUT = 15
 HEADERS = {
     "User-Agent": (
@@ -43,61 +44,34 @@ def fetch_page(url: str) -> str:
         return ""
 
 
-def parse_resources(html: str) -> list[dict]:
-    """解析首页资源站列表"""
-    soup = BeautifulSoup(html, "lxml")
+def parse_resources(xml_text: str) -> list[dict]:
+    """从 RSS feed 解析资源站列表（ziyuanzu.com 是 SPA，HTML 无法解析）"""
     resources = []
-
-    # 查找资源站卡片
-    cards = soup.find_all("div", class_=re.compile(r"resource-card|source-card|card"))
-    if not cards:
-        # 备选：查找包含资源站信息的 div
-        cards = soup.find_all("div", class_=lambda x: x and "resource" in x.lower())
-
-    for card in cards:
-        try:
-            # 提取名称
-            name_tag = card.find(["h3", "h4", "h5", "a"], class_=re.compile(r"title|name"))
-            if not name_tag:
-                name_tag = card.find("a")
-            name = name_tag.get_text(strip=True) if name_tag else "未知"
-
-            # 提取链接
-            link = ""
-            if name_tag and name_tag.has_attr("href"):
-                link = urljoin(BASE_URL, name_tag["href"])
-
-            # 提取描述
-            desc_tag = card.find("p", class_=re.compile(r"desc|description"))
-            if not desc_tag:
-                desc_tag = card.find("p")
-            description = desc_tag.get_text(strip=True) if desc_tag else ""
-
-            # 提取状态
-            status_tag = card.find("span", class_=re.compile(r"status|state"))
-            status = status_tag.get_text(strip=True) if status_tag else "未知"
-
-            # 提取可用率
-            uptime_match = re.search(r"(\d+(?:\.\d+)?)%", description)
-            uptime = uptime_match.group(1) + "%" if uptime_match else "-"
-
-            # 提取资源量
-            resource_match = re.search(r"(\d+(?:\.\d+)?)\s*万", description)
-            resource_count = resource_match.group(0) if resource_match else "-"
-
+    try:
+        root = ET.fromstring(xml_text)
+        items = root.findall('.//item')
+        for item in items:
+            title = item.findtext('title', '') or ''
+            name = title.split(' | ')[0].split(' - ')[0].strip()
+            link = item.findtext('link', '') or ''
+            desc_raw = item.findtext('description', '') or ''
+            desc_clean = re.sub(r'<!\[CDATA\[|\]\]>', '', desc_raw)
+            uptime_m = re.search(r'可用率[：:]\s*(\d+(?:\.\d+)?)%', desc_clean)
+            uptime = uptime_m.group(1) + '%' if uptime_m else '-'
+            count_m = re.search(r'资源量[：:]\s*(\d+)', desc_clean)
+            resource_count = count_m.group(1) if count_m else '-'
             resources.append({
-                "name": name,
-                "link": link,
-                "description": description,
-                "status": status,
-                "uptime": uptime,
-                "resource_count": resource_count,
+                'name': name,
+                'link': link,
+                'description': desc_clean,
+                'status': '未知',
+                'uptime': uptime,
+                'resource_count': resource_count,
             })
-        except Exception as e:
-            print(f"[WARN] Parse card failed: {e}")
-            continue
-
+    except Exception as e:
+        print(f'[ERROR] RSS parse failed: {e}')
     return resources
+
 
 
 def check_site_health(url: str) -> dict:
@@ -371,16 +345,16 @@ def main():
     print("ziyuanzu.com 资源站监测脚本")
     print("=" * 50)
 
-    # 1. 抓取首页
-    print("\n[1/4] 抓取首页数据...")
-    html = fetch_page(BASE_URL)
-    if not html:
-        print("[ERROR] 首页抓取失败，退出")
+    # 1. 抓取 RSS feed（ziyuanzu.com 是 SPA，改用 feed.xml）
+    print("\n[1/4] 抓取 RSS feed...")
+    xml_text = fetch_page(FEED_URL)
+    if not xml_text:
+        print("[ERROR] RSS 抓取失败，退出")
         return
 
     # 2. 解析资源站列表
     print("[2/4] 解析资源站列表...")
-    resources = parse_resources(html)
+    resources = parse_resources(xml_text)
     print(f"[INFO] 解析到 {len(resources)} 个资源站")
 
     # 3. 检测每个资源站的健康状态

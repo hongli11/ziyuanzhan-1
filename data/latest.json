@@ -1,9 +1,310 @@
 {
-  "timestamp": "2026-08-02 23:28:08",
+  "timestamp": "2026-08-03 07:40:10",
   "source": "https://www.ziyuanzu.com",
-  "resources": [],
+  "resources": [
+    {
+      "name": "360资源站",
+      "link": "https://www.ziyuanzu.com/source/360ziyuanzhan-1",
+      "description": "360资源采集站，提供影视资源API接口。可用率: 100%，资源量: 67982，响应速度: 极速，分类: 影视，标签: 影视资源、采集站、API",
+      "status": "未知",
+      "uptime": "100%",
+      "resource_count": "67982",
+      "health": {
+        "url": "https://www.ziyuanzu.com/source/360ziyuanzhan-1",
+        "status_code": 200,
+        "response_time_ms": 987.43,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "鸭鸭资源站",
+      "link": "https://www.ziyuanzu.com/source/ziyuanzhan-3",
+      "description": "丫丫资源采集站，资源丰富稳定。可用率: 100%，资源量: 119516，响应速度: 极速，分类: 影视，标签: 稳定、资源丰富、采集站",
+      "status": "未知",
+      "uptime": "100%",
+      "resource_count": "119516",
+      "health": {
+        "url": "https://www.ziyuanzu.com/source/ziyuanzhan-3",
+        "status_code": 200,
+        "response_time_ms": 546.94,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "光速资源站",
+      "link": "https://www.ziyuanzu.com/source/guangsuziyuanzhan-4",
+      "description": "光速加载资源站，m3u8直链。可用率: 100%，资源量: 110033，响应速度: 极速，分类: 影视，标签: 极速、m3u8、直链",
+      "status": "未知",
+      "uptime": "100%",
+      "resource_count": "110033",
+      "health": {
+        "url": "https://www.ziyuanzu.com/source/guangsuziyuanzhan-4",
+        "status_code": 200,
+        "response_time_ms": 596.94,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "天涯影视资源站",
+      "link": "https://www.ziyuanzu.com/source/tianyingshiziyuanzhan-5",
+      "description": "天涯影视资源采集站，稳定可靠。可用率: 100%，资源量: 68667，响应速度: 一般，分类: 影视，标签: 稳定、影视资源、采集站",
+      "status": "未知",
+      "uptime": "100%",
+      "resource_count": "68667",
+      "health": {
+        "url": "https://www.ziyuanzu.com/source/tianyingshiziyuanzhan-5",
+        "status_code": 200,
+        "response_time_ms": 686.07,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "豪华资源站",
+      "link": "https://www.ziyuanzu.com/source/ziyuanzhan-6",
+      "description": "豪华资源采集站，无广告无水印。可用率: 100%，资源量: 108709，响应速度: 极速，分类: 影视，标签: 无广告、无水印、采集站",
+      "status": "未知",
+      "uptime": "100%",
+      "resource_count": "108709",
+      "health": {
+        "url": "https://www.ziyuanzu.com/source/ziyuanzhan-6",
+        "status_code": 200,
+        "response_time_ms": 884.43,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "新极品资源站",
+      "link": "https://www.ziyuanzu.com/source/xinjiziyuanzhan-9",
+      "description": "新极品资源采集站，无广告无水印秒播。可用率: 100%，资源量: 53840，响应速度: 极速，分类: 影视，标签: 无广告、无水印、秒播、极品",
+      "status": "未知",
+      "uptime": "100%",
+      "resource_count": "53840",
+      "health": {
+        "url": "https://www.ziyuanzu.com/source/xinjiziyuanzhan-9",
+        "status_code": 200,
+        "response_time_ms": 1004.68,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "无尽资源站",
+      "link": "https://www.ziyuanzu.com/source/wuziyuanzhan-11",
+      "description": "无尽资源采集站，资源丰富稳定。可用率: 100%，资源量: 117232，响应速度: 极速，分类: 影视，标签: 资源丰富、稳定、采集站",
+      "status": "未知",
+      "uptime": "100%",
+      "resource_count": "117232",
+      "health": {
+        "url": "https://www.ziyuanzu.com/source/wuziyuanzhan-11",
+        "status_code": 200,
+        "response_time_ms": 762.18,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "暴风资源站",
+      "link": "https://www.ziyuanzu.com/source/ziyuanzhan-13",
+      "description": "暴风资源采集站，秒播体验无水印。可用率: 100%，资源量: 152548，响应速度: 极速，分类: 影视，标签: 秒播、无水印、稳定",
+      "status": "未知",
+      "uptime": "100%",
+      "resource_count": "152548",
+      "health": {
+        "url": "https://www.ziyuanzu.com/source/ziyuanzhan-13",
+        "status_code": 200,
+        "response_time_ms": 1020.05,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "极速资源站",
+      "link": "https://www.ziyuanzu.com/source/jisuziyuanzhan-15",
+      "description": "极速资源采集站，JSON接口。可用率: 100%，资源量: 107957，响应速度: 极速，分类: 影视，标签: 极速、JSON、采集站",
+      "status": "未知",
+      "uptime": "100%",
+      "resource_count": "107957",
+      "health": {
+        "url": "https://www.ziyuanzu.com/source/jisuziyuanzhan-15",
+        "status_code": 200,
+        "response_time_ms": 648.01,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "牛牛资源",
+      "link": "https://www.ziyuanzu.com/source/ziyuan-18",
+      "description": "牛牛资源采集站，稳定高速。可用率: 100%，资源量: 121476，响应速度: 极速，分类: 影视，标签: 稳定、高速、采集站",
+      "status": "未知",
+      "uptime": "100%",
+      "resource_count": "121476",
+      "health": {
+        "url": "https://www.ziyuanzu.com/source/ziyuan-18",
+        "status_code": 200,
+        "response_time_ms": 795.22,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "索尼采集站",
+      "link": "https://www.ziyuanzu.com/source/suocaijizhan-21",
+      "description": "索尼采集站，资源丰富稳定。可用率: 100%，资源量: 141773，响应速度: 一般，分类: 影视，标签: 资源丰富、稳定、采集站",
+      "status": "未知",
+      "uptime": "100%",
+      "resource_count": "141773",
+      "health": {
+        "url": "https://www.ziyuanzu.com/source/suocaijizhan-21",
+        "status_code": 200,
+        "response_time_ms": 1501.47,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "红牛资源站",
+      "link": "https://www.ziyuanzu.com/source/ziyuanzhan-22",
+      "description": "红牛资源采集站，m3u8直链，老牌稳定。可用率: 100%，资源量: 109371，响应速度: 一般，分类: 影视，标签: 老牌、稳定、m3u8",
+      "status": "未知",
+      "uptime": "100%",
+      "resource_count": "109371",
+      "health": {
+        "url": "https://www.ziyuanzu.com/source/ziyuanzhan-22",
+        "status_code": 200,
+        "response_time_ms": 520.94,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "豆瓣资源站",
+      "link": "https://www.ziyuanzu.com/source/ziyuanzhan-27",
+      "description": "豆瓣资源采集站，稳定更新。可用率: 100%，资源量: 136682，响应速度: 一般，分类: 影视，标签: 稳定、更新及时、采集站",
+      "status": "未知",
+      "uptime": "100%",
+      "resource_count": "136682",
+      "health": {
+        "url": "https://www.ziyuanzu.com/source/ziyuanzhan-27",
+        "status_code": 200,
+        "response_time_ms": 596.17,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "速播资源站",
+      "link": "https://www.ziyuanzu.com/source/suboziyuanzhan-28",
+      "description": "速播资源采集站，JSON接口。可用率: 100%，资源量: 109780，响应速度: 一般，分类: 影视，标签: JSON、稳定、采集站",
+      "status": "未知",
+      "uptime": "100%",
+      "resource_count": "109780",
+      "health": {
+        "url": "https://www.ziyuanzu.com/source/suboziyuanzhan-28",
+        "status_code": 200,
+        "response_time_ms": 641.53,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "速播资源站",
+      "link": "https://www.ziyuanzu.com/source/suboziyuanzhan-29",
+      "description": "速播资源采集站，稳定更新。可用率: 100%，资源量: 109780，响应速度: 一般，分类: 影视，标签: 稳定、更新及时、采集站",
+      "status": "未知",
+      "uptime": "100%",
+      "resource_count": "109780",
+      "health": {
+        "url": "https://www.ziyuanzu.com/source/suboziyuanzhan-29",
+        "status_code": 200,
+        "response_time_ms": 633.27,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "155资源站",
+      "link": "https://www.ziyuanzu.com/source/155ziyuanzhan-33",
+      "description": "155资源采集站，提供影视资源API接口。可用率: 100%，资源量: 181372，响应速度: 极速，分类: 影视，标签: 高清、API、极速",
+      "status": "未知",
+      "uptime": "100%",
+      "resource_count": "181372",
+      "health": {
+        "url": "https://www.ziyuanzu.com/source/155ziyuanzhan-33",
+        "status_code": 200,
+        "response_time_ms": 693.85,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "非凡资源站",
+      "link": "https://www.ziyuanzu.com/source/ziyuanzhan-34",
+      "description": "非凡资源采集站，JSON接口。可用率: 100%，资源量: 97626，响应速度: 一般，分类: 影视，标签: JSON、稳定、采集站",
+      "status": "未知",
+      "uptime": "100%",
+      "resource_count": "97626",
+      "health": {
+        "url": "https://www.ziyuanzu.com/source/ziyuanzhan-34",
+        "status_code": 200,
+        "response_time_ms": 688.77,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "JKUN资源站",
+      "link": "https://www.ziyuanzu.com/source/jkunziyuanzhan-68",
+      "description": "JKUN资源采集站，提供影视资源API接口。可用率: 100%，资源量: 128417，响应速度: 极速，分类: 影视，标签: API、精品、新站",
+      "status": "未知",
+      "uptime": "100%",
+      "resource_count": "128417",
+      "health": {
+        "url": "https://www.ziyuanzu.com/source/jkunziyuanzhan-68",
+        "status_code": 200,
+        "response_time_ms": 1896.85,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "魔都资源站",
+      "link": "https://www.ziyuanzu.com/source/ziyuanzhan-36",
+      "description": "魔都资源采集站，资源丰富稳定。可用率: 100%，资源量: 86415，响应速度: 一般，分类: 影视，标签: 资源丰富、稳定、采集站",
+      "status": "未知",
+      "uptime": "100%",
+      "resource_count": "86415",
+      "health": {
+        "url": "https://www.ziyuanzu.com/source/ziyuanzhan-36",
+        "status_code": 200,
+        "response_time_ms": 604.7,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "乐播资源站",
+      "link": "https://www.ziyuanzu.com/source/yueboziyuanzhan-70",
+      "description": "乐播资源采集站，提供影视资源API接口。可用率: 100%，资源量: 323969，响应速度: 一般，分类: 影视，标签: 综合、API、稳定",
+      "status": "未知",
+      "uptime": "100%",
+      "resource_count": "323969",
+      "health": {
+        "url": "https://www.ziyuanzu.com/source/yueboziyuanzhan-70",
+        "status_code": 200,
+        "response_time_ms": 606.13,
+        "is_alive": true,
+        "error": null
+      }
+    }
+  ],
   "stats": {
-    "total": 0,
-    "alive": 0
+    "total": 20,
+    "alive": 20
   }
 }
