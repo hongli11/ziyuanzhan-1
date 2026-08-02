@@ -17,6 +17,7 @@ from urllib.parse import urljoin, urlparse
 
 import requests
 import xml.etree.ElementTree as ET
+from builtin_sources import get_builtin_resources
 
 BASE_URL = "https://www.ziyuanzu.com"
 FEED_URL = "https://www.ziyuanzu.com/feed.xml"
@@ -345,20 +346,22 @@ def main():
     print("ziyuanzu.com 资源站监测脚本")
     print("=" * 50)
 
-    # 1. 抓取 RSS feed（ziyuanzu.com 是 SPA，改用 feed.xml）
-    print("\n[1/4] 抓取 RSS feed...")
+    # 1. 使用内置资源站列表（不依赖外部网站）
+    print("\n[1/3] 加载资源站列表...")
+    resources = get_builtin_resources()
+    # 尝试从 RSS 补充更多站点（可选，失败不影响）
     xml_text = fetch_page(FEED_URL)
-    if not xml_text:
-        print("[ERROR] RSS 抓取失败，退出")
-        return
+    if xml_text:
+        rss_resources = parse_resources(xml_text)
+        if rss_resources:
+            builtin_keys = {(r['name'], r['link']) for r in resources}
+            for r in rss_resources:
+                if r['link'] and (r['name'], r['link']) not in builtin_keys:
+                    resources.append(r)
+    print(f"[INFO] 共 {len(resources)} 个资源站")
 
-    # 2. 解析资源站列表
-    print("[2/4] 解析资源站列表...")
-    resources = parse_resources(xml_text)
-    print(f"[INFO] 解析到 {len(resources)} 个资源站")
-
-    # 3. 检测每个资源站的健康状态
-    print("[3/4] 检测资源站健康状态...")
+    # 2. 检测每个资源站的健康状态
+    print("[2/3] 检测资源站健康状态...")
     for i, r in enumerate(resources):
         link = r.get("link", "")
         if link:
@@ -383,7 +386,7 @@ def main():
     }
 
     # 5. 保存文件
-    print("\n[4/4] 生成输出文件...")
+    print("\n[3/3] 生成输出文件...")
     generate_html(data, "docs/index.html")
     save_json(data, f"data/monitor_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json")
     save_json(data, "data/latest.json")
