@@ -47,12 +47,12 @@ BUILTIN_SOURCES = [
     ("色猫资源站", "https://caiji.semaozy.net/inc/api.php", "影视"),
     ("越南资源站", "https://api.vnzyz.com/api.php/provide/vod/", "影视"),
     ("辣椒资源站", "https://apilj.com/api.php/provide/vod/", "影视"),
-    ("香蕉资源站", "https://www.xiangjaozyw.com/api.php/provide/vod/", "影视"),
+    ("香蕉资源站", "https://www.xiangjiaozyw.com/api.php/provide/vod/", "影视"),
     ("鲨鱼资源站", "https://shayuapi.com/api.php/provide/vod/", "影视"),
     ("麻豆资源站", "https://91md.me/api.php/provide/vod/", "影视"),
     ("X色仓库资源", "https://hsckzy888.com/api.php/provide/vod", "影视"),
     ("黑料资源站", "https://heiliaozyapi.com/api.php/provide/vod/", "影视"),
-    ("ok资源站", "https://api.okzy.com/api.php/provide/vod/", "影视"),
+    ("ok资源站", "https://api.okzy.com/api.php/provide/vod", "影视"),
     ("u酷资源站", "https://api.ukuzy.com/api.php/provide/vod/", "影视"),
     ("优质资源站", "https://api.yzzy.com/api.php/provide/vod/", "影视"),
     ("如意资源站", "https://api.ryzy.com/api.php/provide/vod/", "影视"),
@@ -73,15 +73,13 @@ BUILTIN_SOURCES = [
     ("香系源资源站", "https://www.gdlsp.com/api/json.php", "影视"),
 ]
 
-def get_builtin_resources() -> list[dict]:
+def get_builtin_resources():
     """返回内置资源站列表"""
     resources = []
     for name, link, category in BUILTIN_SOURCES:
-        # Normalize: ensure URL ends without trailing slash for consistency
-        url = link.rstrip('/')
         resources.append({
             "name": name,
-            "link": url,
+            "link": link.rstrip('/'),
             "description": f"{name}，分类: {category}",
             "status": "未知",
             "uptime": "-",
