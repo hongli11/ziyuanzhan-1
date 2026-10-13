@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-13 06:03:39",
+  "timestamp": "2026-10-13 15:42:31",
   "source": "https://www.ziyuanzu.com",
   "resources": [
     {
@@ -12,7 +12,7 @@
       "health": {
         "url": "https://360zy.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 891.47,
+        "response_time_ms": 1014.0,
         "is_alive": true,
         "error": null
       }
@@ -27,7 +27,7 @@
       "health": {
         "url": "https://cj.yayazy.net/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 200.97,
+        "response_time_ms": 1209.33,
         "is_alive": true,
         "error": null
       }
@@ -42,7 +42,7 @@
       "health": {
         "url": "https://api.guangsuapi.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 224.62,
+        "response_time_ms": 1576.34,
         "is_alive": true,
         "error": null
       }
@@ -57,7 +57,7 @@
       "health": {
         "url": "https://tyyszyapi.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 193.48,
+        "response_time_ms": 390.42,
         "is_alive": true,
         "error": null
       }
@@ -72,7 +72,7 @@
       "health": {
         "url": "https://haohuazy.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 626.84,
+        "response_time_ms": 1180.86,
         "is_alive": true,
         "error": null
       }
@@ -86,10 +86,10 @@
       "resource_count": "-",
       "health": {
         "url": "https://jipinvip1.com/api.php/provide/vod",
-        "status_code": null,
-        "response_time_ms": null,
-        "is_alive": false,
-        "error": "Timeout"
+        "status_code": 200,
+        "response_time_ms": 685.18,
+        "is_alive": true,
+        "error": null
       }
     },
     {
@@ -102,7 +102,7 @@
       "health": {
         "url": "https://api.wujinapi.me/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 270.03,
+        "response_time_ms": 944.03,
         "is_alive": true,
         "error": null
       }
@@ -117,7 +117,7 @@
       "health": {
         "url": "https://bfzyapi.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 118.46,
+        "response_time_ms": 331.09,
         "is_alive": true,
         "error": null
       }
@@ -132,7 +132,7 @@
       "health": {
         "url": "http://zuidazy.me/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 247.15,
+        "response_time_ms": 491.63,
         "is_alive": true,
         "error": null
       }
@@ -147,7 +147,7 @@
       "health": {
         "url": "https://jszyapi.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 243.58,
+        "response_time_ms": 1039.43,
         "is_alive": true,
         "error": null
       }
@@ -162,7 +162,7 @@
       "health": {
         "url": "https://iqiyizyapi.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 1015.5,
+        "response_time_ms": 1644.35,
         "is_alive": true,
         "error": null
       }
@@ -177,7 +177,7 @@
       "health": {
         "url": "https://api.niuniuzy.me/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 200.46,
+        "response_time_ms": 1108.61,
         "is_alive": true,
         "error": null
       }
@@ -192,7 +192,7 @@
       "health": {
         "url": "https://suonizy.net/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 823.82,
+        "response_time_ms": 885.17,
         "is_alive": true,
         "error": null
       }
@@ -207,7 +207,7 @@
       "health": {
         "url": "http://hongniuzy2.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 584.67,
+        "response_time_ms": 1071.37,
         "is_alive": true,
         "error": null
       }
@@ -222,7 +222,7 @@
       "health": {
         "url": "https://mtzy5.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 1421.87,
+        "response_time_ms": 1161.49,
         "is_alive": true,
         "error": null
       }
@@ -237,7 +237,7 @@
       "health": {
         "url": "https://huyazy.net/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 534.08,
+        "response_time_ms": 1349.18,
         "is_alive": true,
         "error": null
       }
@@ -252,7 +252,7 @@
       "health": {
         "url": "https://dbzy.tv/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 675.98,
+        "response_time_ms": 635.55,
         "is_alive": true,
         "error": null
       }
@@ -266,10 +266,10 @@
       "resource_count": "-",
       "health": {
         "url": "https://subocj.com/api.php/provide/vod",
-        "status_code": null,
-        "response_time_ms": null,
-        "is_alive": false,
-        "error": "Timeout"
+        "status_code": 200,
+        "response_time_ms": 1003.42,
+        "is_alive": true,
+        "error": null
       }
     },
     {
@@ -281,10 +281,10 @@
       "resource_count": "-",
       "health": {
         "url": "https://www.suboziyuan.net/api.php/provide/vod",
-        "status_code": null,
-        "response_time_ms": null,
-        "is_alive": false,
-        "error": "Timeout"
+        "status_code": 200,
+        "response_time_ms": 1108.74,
+        "is_alive": true,
+        "error": null
       }
     },
     {
@@ -297,7 +297,7 @@
       "health": {
         "url": "https://jyzyapi.com/provide/vod",
         "status_code": 200,
-        "response_time_ms": 570.23,
+        "response_time_ms": 2274.81,
         "is_alive": true,
         "error": null
       }
@@ -312,7 +312,7 @@
       "health": {
         "url": "https://155api.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 188.61,
+        "response_time_ms": 927.19,
         "is_alive": true,
         "error": null
       }
@@ -327,7 +327,7 @@
       "health": {
         "url": "https://ffzy5.tv/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 83.98,
+        "response_time_ms": 496.92,
         "is_alive": true,
         "error": null
       }
@@ -342,7 +342,7 @@
       "health": {
         "url": "https://p2100.net/api.php/provide/vod",
         "status_code": 403,
-        "response_time_ms": 94.14,
+        "response_time_ms": 347.67,
         "is_alive": false,
         "error": null
       }
@@ -357,7 +357,7 @@
       "health": {
         "url": "https://jkunzyapi.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 162.25,
+        "response_time_ms": 663.87,
         "is_alive": true,
         "error": null
       }
@@ -372,7 +372,7 @@
       "health": {
         "url": "https://www.mdzyapi.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 197.15,
+        "response_time_ms": 1622.9,
         "is_alive": true,
         "error": null
       }
@@ -387,7 +387,7 @@
       "health": {
         "url": "https://lbapi9.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 878.76,
+        "response_time_ms": 798.35,
         "is_alive": true,
         "error": null
       }
@@ -402,7 +402,7 @@
       "health": {
         "url": "https://dadiapi.com/api.php",
         "status_code": 200,
-        "response_time_ms": 157.22,
+        "response_time_ms": 866.28,
         "is_alive": true,
         "error": null
       }
@@ -417,7 +417,7 @@
       "health": {
         "url": "https://ikunzyapi.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 237.65,
+        "response_time_ms": 982.4,
         "is_alive": true,
         "error": null
       }
@@ -432,7 +432,7 @@
       "health": {
         "url": "https://apidanaizi.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 378.59,
+        "response_time_ms": 619.29,
         "is_alive": true,
         "error": null
       }
@@ -447,7 +447,7 @@
       "health": {
         "url": "https://aosikazy.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 186.57,
+        "response_time_ms": 2410.89,
         "is_alive": true,
         "error": null
       }
@@ -462,7 +462,7 @@
       "health": {
         "url": "https://naixxzy.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 444.98,
+        "response_time_ms": 1490.78,
         "is_alive": true,
         "error": null
       }
@@ -477,7 +477,7 @@
       "health": {
         "url": "https://api.xiaojizy.live/provide/vod",
         "status_code": 200,
-        "response_time_ms": 97.37,
+        "response_time_ms": 473.89,
         "is_alive": true,
         "error": null
       }
@@ -492,7 +492,7 @@
       "health": {
         "url": "https://thzy1.me/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 1100.7,
+        "response_time_ms": 942.67,
         "is_alive": true,
         "error": null
       }
@@ -507,7 +507,7 @@
       "health": {
         "url": "https://slapibf.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 340.36,
+        "response_time_ms": 570.35,
         "is_alive": true,
         "error": null
       }
@@ -522,7 +522,7 @@
       "health": {
         "url": "https://m3u8.apiyhzy.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 306.21,
+        "response_time_ms": 1350.66,
         "is_alive": true,
         "error": null
       }
@@ -537,7 +537,7 @@
       "health": {
         "url": "https://xxavs.com/api.php/provide/vod",
         "status_code": 403,
-        "response_time_ms": 518.73,
+        "response_time_ms": 329.47,
         "is_alive": false,
         "error": null
       }
@@ -552,7 +552,7 @@
       "health": {
         "url": "https://api.ddapi.cc/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 426.5,
+        "response_time_ms": 478.09,
         "is_alive": true,
         "error": null
       }
@@ -567,7 +567,7 @@
       "health": {
         "url": "https://apiyutu.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 155.73,
+        "response_time_ms": 2192.09,
         "is_alive": true,
         "error": null
       }
@@ -582,7 +582,7 @@
       "health": {
         "url": "http://fhapi9.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 591.04,
+        "response_time_ms": 654.65,
         "is_alive": true,
         "error": null
       }
@@ -597,7 +597,7 @@
       "health": {
         "url": "https://fqzy.me/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 1096.27,
+        "response_time_ms": 957.42,
         "is_alive": true,
         "error": null
       }
@@ -612,7 +612,7 @@
       "health": {
         "url": "https://bhziyuan.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 642.84,
+        "response_time_ms": 783.81,
         "is_alive": true,
         "error": null
       }
@@ -627,7 +627,7 @@
       "health": {
         "url": "https://www.jingpinx.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 966.67,
+        "response_time_ms": 857.47,
         "is_alive": true,
         "error": null
       }
@@ -657,7 +657,7 @@
       "health": {
         "url": "https://apilsbzy1.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 156.7,
+        "response_time_ms": 513.55,
         "is_alive": true,
         "error": null
       }
@@ -672,7 +672,7 @@
       "health": {
         "url": "https://caiji.semaozy.net/inc/api.php",
         "status_code": 200,
-        "response_time_ms": 402.93,
+        "response_time_ms": 489.08,
         "is_alive": true,
         "error": null
       }
@@ -687,7 +687,7 @@
       "health": {
         "url": "https://api.vnzyz.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 136.16,
+        "response_time_ms": 315.07,
         "is_alive": true,
         "error": null
       }
@@ -702,7 +702,7 @@
       "health": {
         "url": "https://apilj.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 248.83,
+        "response_time_ms": 312.66,
         "is_alive": true,
         "error": null
       }
@@ -732,7 +732,7 @@
       "health": {
         "url": "https://shayuapi.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 2507.36,
+        "response_time_ms": 7158.86,
         "is_alive": true,
         "error": null
       }
@@ -747,7 +747,7 @@
       "health": {
         "url": "https://91md.me/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 1734.44,
+        "response_time_ms": 3522.62,
         "is_alive": true,
         "error": null
       }
@@ -762,7 +762,7 @@
       "health": {
         "url": "https://hsckzy888.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 719.93,
+        "response_time_ms": 489.75,
         "is_alive": true,
         "error": null
       }
@@ -777,7 +777,7 @@
       "health": {
         "url": "https://heiliaozyapi.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 709.44,
+        "response_time_ms": 1118.07,
         "is_alive": true,
         "error": null
       }
@@ -837,7 +837,7 @@
       "health": {
         "url": "https://api.ryzy.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 783.83,
+        "response_time_ms": 983.9,
         "is_alive": true,
         "error": null
       }
@@ -942,7 +942,7 @@
       "health": {
         "url": "https://api.apibdzy.com/api.php/provide/vod",
         "status_code": 403,
-        "response_time_ms": 101.69,
+        "response_time_ms": 498.66,
         "is_alive": false,
         "error": null
       }
@@ -957,7 +957,7 @@
       "health": {
         "url": "https://lovedan.net/api.php/provide/vod",
         "status_code": 403,
-        "response_time_ms": 176.14,
+        "response_time_ms": 675.19,
         "is_alive": false,
         "error": null
       }
@@ -972,7 +972,7 @@
       "health": {
         "url": "https://api.souavzyw.net/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 161.02,
+        "response_time_ms": 1147.49,
         "is_alive": true,
         "error": null
       }
@@ -987,7 +987,7 @@
       "health": {
         "url": "https://www.kxgav.com/api/json.php",
         "status_code": 200,
-        "response_time_ms": 353.43,
+        "response_time_ms": 1718.58,
         "is_alive": true,
         "error": null
       }
@@ -1002,7 +1002,7 @@
       "health": {
         "url": "https://www.msnii.com/api/json.php",
         "status_code": 200,
-        "response_time_ms": 260.44,
+        "response_time_ms": 766.34,
         "is_alive": true,
         "error": null
       }
@@ -1017,7 +1017,7 @@
       "health": {
         "url": "https://api.douapi.cc/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 343.94,
+        "response_time_ms": 473.32,
         "is_alive": true,
         "error": null
       }
@@ -1032,7 +1032,7 @@
       "health": {
         "url": "https://www.pgxdy.com/api/json.php",
         "status_code": 200,
-        "response_time_ms": 265.9,
+        "response_time_ms": 845.88,
         "is_alive": true,
         "error": null
       }
@@ -1047,7 +1047,7 @@
       "health": {
         "url": "https://www.xrbsp.com/api/json.php",
         "status_code": 200,
-        "response_time_ms": 283.1,
+        "response_time_ms": 832.43,
         "is_alive": true,
         "error": null
       }
@@ -1062,7 +1062,7 @@
       "health": {
         "url": "https://www.gdlsp.com/api/json.php",
         "status_code": 200,
-        "response_time_ms": 362.41,
+        "response_time_ms": 401.17,
         "is_alive": true,
         "error": null
       }
@@ -1070,6 +1070,6 @@
   ],
   "stats": {
     "total": 71,
-    "alive": 53
+    "alive": 56
   }
 }
