@@ -1,0 +1,1075 @@
+{
+  "timestamp": "2026-10-24 17:17:05",
+  "source": "https://www.ziyuanzu.com",
+  "resources": [
+    {
+      "name": "360资源站",
+      "link": "https://360zy.com/api.php/provide/vod",
+      "description": "360资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://360zy.com/api.php/provide/vod",
+        "status_code": 200,
+        "response_time_ms": 1096.78,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "鸭鸭资源站",
+      "link": "https://cj.yayazy.net/api.php/provide/vod",
+      "description": "鸭鸭资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://cj.yayazy.net/api.php/provide/vod",
+        "status_code": 200,
+        "response_time_ms": 341.58,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "光速资源站",
+      "link": "https://api.guangsuapi.com/api.php/provide/vod",
+      "description": "光速资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://api.guangsuapi.com/api.php/provide/vod",
+        "status_code": 200,
+        "response_time_ms": 151.72,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "天涯影视资源站",
+      "link": "https://tyyszyapi.com/api.php/provide/vod",
+      "description": "天涯影视资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://tyyszyapi.com/api.php/provide/vod",
+        "status_code": 200,
+        "response_time_ms": 286.92,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "豪华资源站",
+      "link": "https://haohuazy.com/api.php/provide/vod",
+      "description": "豪华资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://haohuazy.com/api.php/provide/vod",
+        "status_code": 200,
+        "response_time_ms": 804.57,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "新极品资源站",
+      "link": "https://jipinvip1.com/api.php/provide/vod",
+      "description": "新极品资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://jipinvip1.com/api.php/provide/vod",
+        "status_code": 200,
+        "response_time_ms": 573.61,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "无尽资源站",
+      "link": "https://api.wujinapi.me/api.php/provide/vod",
+      "description": "无尽资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://api.wujinapi.me/api.php/provide/vod",
+        "status_code": 200,
+        "response_time_ms": 190.41,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "暴风资源站",
+      "link": "https://bfzyapi.com/api.php/provide/vod",
+      "description": "暴风资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://bfzyapi.com/api.php/provide/vod",
+        "status_code": 200,
+        "response_time_ms": 467.64,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "最大资源站",
+      "link": "http://zuidazy.me/api.php/provide/vod",
+      "description": "最大资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "http://zuidazy.me/api.php/provide/vod",
+        "status_code": 200,
+        "response_time_ms": 423.71,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "极速资源站",
+      "link": "https://jszyapi.com/api.php/provide/vod",
+      "description": "极速资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://jszyapi.com/api.php/provide/vod",
+        "status_code": 200,
+        "response_time_ms": 158.61,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "爱奇艺资源站",
+      "link": "https://iqiyizyapi.com/api.php/provide/vod",
+      "description": "爱奇艺资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://iqiyizyapi.com/api.php/provide/vod",
+        "status_code": 200,
+        "response_time_ms": 1700.46,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "牛牛资源",
+      "link": "https://api.niuniuzy.me/api.php/provide/vod",
+      "description": "牛牛资源，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://api.niuniuzy.me/api.php/provide/vod",
+        "status_code": 200,
+        "response_time_ms": 297.84,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "索尼采集站",
+      "link": "https://suonizy.net/api.php/provide/vod",
+      "description": "索尼采集站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://suonizy.net/api.php/provide/vod",
+        "status_code": 200,
+        "response_time_ms": 349.59,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "红牛资源站",
+      "link": "http://hongniuzy2.com/api.php/provide/vod",
+      "description": "红牛资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "http://hongniuzy2.com/api.php/provide/vod",
+        "status_code": 200,
+        "response_time_ms": 706.28,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "茅台资源站",
+      "link": "https://mtzy5.com/api.php/provide/vod",
+      "description": "茅台资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://mtzy5.com/api.php/provide/vod",
+        "status_code": 200,
+        "response_time_ms": 1343.09,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "虎牙资源站",
+      "link": "https://huyazy.net/api.php/provide/vod",
+      "description": "虎牙资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://huyazy.net/api.php/provide/vod",
+        "status_code": 200,
+        "response_time_ms": 466.27,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "豆瓣资源站",
+      "link": "https://dbzy.tv/api.php/provide/vod",
+      "description": "豆瓣资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://dbzy.tv/api.php/provide/vod",
+        "status_code": 502,
+        "response_time_ms": 4345.82,
+        "is_alive": false,
+        "error": null
+      }
+    },
+    {
+      "name": "速播资源站",
+      "link": "https://subocj.com/api.php/provide/vod",
+      "description": "速播资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://subocj.com/api.php/provide/vod",
+        "status_code": 200,
+        "response_time_ms": 936.18,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "速播资源站2",
+      "link": "https://www.suboziyuan.net/api.php/provide/vod",
+      "description": "速播资源站2，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://www.suboziyuan.net/api.php/provide/vod",
+        "status_code": 200,
+        "response_time_ms": 709.39,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "金鹰资源站",
+      "link": "https://jyzyapi.com/provide/vod",
+      "description": "金鹰资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://jyzyapi.com/provide/vod",
+        "status_code": 200,
+        "response_time_ms": 414.21,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "155资源站",
+      "link": "https://155api.com/api.php/provide/vod",
+      "description": "155资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://155api.com/api.php/provide/vod",
+        "status_code": 200,
+        "response_time_ms": 149.26,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "非凡资源站",
+      "link": "https://ffzy5.tv/api.php/provide/vod",
+      "description": "非凡资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://ffzy5.tv/api.php/provide/vod",
+        "status_code": 200,
+        "response_time_ms": 291.82,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "飘零影院资源站",
+      "link": "https://p2100.net/api.php/provide/vod",
+      "description": "飘零影院资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://p2100.net/api.php/provide/vod",
+        "status_code": 403,
+        "response_time_ms": 96.78,
+        "is_alive": false,
+        "error": null
+      }
+    },
+    {
+      "name": "JKUN资源站",
+      "link": "https://jkunzyapi.com/api.php/provide/vod",
+      "description": "JKUN资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://jkunzyapi.com/api.php/provide/vod",
+        "status_code": 200,
+        "response_time_ms": 91.64,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "魔都资源站",
+      "link": "https://www.mdzyapi.com/api.php/provide/vod",
+      "description": "魔都资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://www.mdzyapi.com/api.php/provide/vod",
+        "status_code": 200,
+        "response_time_ms": 653.72,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "乐播资源站",
+      "link": "https://lbapi9.com/api.php/provide/vod",
+      "description": "乐播资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://lbapi9.com/api.php/provide/vod",
+        "status_code": 200,
+        "response_time_ms": 846.74,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "大地资源站",
+      "link": "https://dadiapi.com/api.php",
+      "description": "大地资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://dadiapi.com/api.php",
+        "status_code": 200,
+        "response_time_ms": 874.14,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "爱坤资源站",
+      "link": "https://ikunzyapi.com/api.php/provide/vod",
+      "description": "爱坤资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://ikunzyapi.com/api.php/provide/vod",
+        "status_code": 200,
+        "response_time_ms": 275.12,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "大X子资源站",
+      "link": "https://apidanaizi.com/api.php/provide/vod",
+      "description": "大X子资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://apidanaizi.com/api.php/provide/vod",
+        "status_code": null,
+        "response_time_ms": null,
+        "is_alive": false,
+        "error": "Timeout"
+      }
+    },
+    {
+      "name": "奥斯卡资源站",
+      "link": "https://aosikazy.com/api.php/provide/vod",
+      "description": "奥斯卡资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://aosikazy.com/api.php/provide/vod",
+        "status_code": 200,
+        "response_time_ms": 979.91,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "奶香香资源站",
+      "link": "https://naixxzy.com/api.php/provide/vod",
+      "description": "奶香香资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://naixxzy.com/api.php/provide/vod",
+        "status_code": 200,
+        "response_time_ms": 390.86,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "小鸡资源站",
+      "link": "https://api.xiaojizy.live/provide/vod",
+      "description": "小鸡资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://api.xiaojizy.live/provide/vod",
+        "status_code": 200,
+        "response_time_ms": 588.24,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "桃花资源站",
+      "link": "https://thzy1.me/api.php/provide/vod",
+      "description": "桃花资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://thzy1.me/api.php/provide/vod",
+        "status_code": 200,
+        "response_time_ms": 967.26,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "森林资源站",
+      "link": "https://slapibf.com/api.php/provide/vod",
+      "description": "森林资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://slapibf.com/api.php/provide/vod",
+        "status_code": 200,
+        "response_time_ms": 399.69,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "樱花资源站",
+      "link": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+      "description": "樱花资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+        "status_code": 200,
+        "response_time_ms": 414.77,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "湿乐园资源站",
+      "link": "https://xxavs.com/api.php/provide/vod",
+      "description": "湿乐园资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://xxavs.com/api.php/provide/vod",
+        "status_code": 403,
+        "response_time_ms": 140.74,
+        "is_alive": false,
+        "error": null
+      }
+    },
+    {
+      "name": "滴滴资源站",
+      "link": "https://api.ddapi.cc/api.php/provide/vod",
+      "description": "滴滴资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://api.ddapi.cc/api.php/provide/vod",
+        "status_code": 200,
+        "response_time_ms": 270.01,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "玉兔资源站",
+      "link": "https://apiyutu.com/api.php/provide/vod",
+      "description": "玉兔资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://apiyutu.com/api.php/provide/vod",
+        "status_code": 200,
+        "response_time_ms": 201.03,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "番号资源站",
+      "link": "http://fhapi9.com/api.php/provide/vod",
+      "description": "番号资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "http://fhapi9.com/api.php/provide/vod",
+        "status_code": 200,
+        "response_time_ms": 586.31,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "番茄资源站",
+      "link": "https://fqzy.me/api.php/provide/vod",
+      "description": "番茄资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://fqzy.me/api.php/provide/vod",
+        "status_code": 200,
+        "response_time_ms": 937.85,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "百花资源站",
+      "link": "https://bhziyuan.com/api.php/provide/vod",
+      "description": "百花资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://bhziyuan.com/api.php/provide/vod",
+        "status_code": 200,
+        "response_time_ms": 773.32,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "精品X资源站",
+      "link": "https://www.jingpinx.com/api.php/provide/vod",
+      "description": "精品X资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://www.jingpinx.com/api.php/provide/vod",
+        "status_code": 200,
+        "response_time_ms": 928.72,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "细胞网资源站",
+      "link": "https://www.xxibaozyw.com/api.php/provide/vod",
+      "description": "细胞网资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://www.xxibaozyw.com/api.php/provide/vod",
+        "status_code": null,
+        "response_time_ms": null,
+        "is_alive": false,
+        "error": "Connection Error"
+      }
+    },
+    {
+      "name": "老色X资源站",
+      "link": "https://apilsbzy1.com/api.php/provide/vod",
+      "description": "老色X资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://apilsbzy1.com/api.php/provide/vod",
+        "status_code": 200,
+        "response_time_ms": 222.41,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "色猫资源站",
+      "link": "https://caiji.semaozy.net/inc/api.php",
+      "description": "色猫资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://caiji.semaozy.net/inc/api.php",
+        "status_code": 200,
+        "response_time_ms": 318.62,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "越南资源站",
+      "link": "https://api.vnzyz.com/api.php/provide/vod",
+      "description": "越南资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://api.vnzyz.com/api.php/provide/vod",
+        "status_code": 200,
+        "response_time_ms": 395.88,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "辣椒资源站",
+      "link": "https://apilj.com/api.php/provide/vod",
+      "description": "辣椒资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://apilj.com/api.php/provide/vod",
+        "status_code": 200,
+        "response_time_ms": 342.71,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "香蕉资源站",
+      "link": "https://www.xiangjiaozyw.com/api.php/provide/vod",
+      "description": "香蕉资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://www.xiangjiaozyw.com/api.php/provide/vod",
+        "status_code": null,
+        "response_time_ms": null,
+        "is_alive": false,
+        "error": "Timeout"
+      }
+    },
+    {
+      "name": "鲨鱼资源站",
+      "link": "https://shayuapi.com/api.php/provide/vod",
+      "description": "鲨鱼资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://shayuapi.com/api.php/provide/vod",
+        "status_code": 200,
+        "response_time_ms": 988.83,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "麻豆资源站",
+      "link": "https://91md.me/api.php/provide/vod",
+      "description": "麻豆资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://91md.me/api.php/provide/vod",
+        "status_code": 200,
+        "response_time_ms": 2853.7,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "X色仓库资源",
+      "link": "https://hsckzy888.com/api.php/provide/vod",
+      "description": "X色仓库资源，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://hsckzy888.com/api.php/provide/vod",
+        "status_code": 200,
+        "response_time_ms": 6546.35,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "黑料资源站",
+      "link": "https://heiliaozyapi.com/api.php/provide/vod",
+      "description": "黑料资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://heiliaozyapi.com/api.php/provide/vod",
+        "status_code": 200,
+        "response_time_ms": 2810.28,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "ok资源站",
+      "link": "https://api.okzy.com/api.php/provide/vod",
+      "description": "ok资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://api.okzy.com/api.php/provide/vod",
+        "status_code": null,
+        "response_time_ms": null,
+        "is_alive": false,
+        "error": "Connection Error"
+      }
+    },
+    {
+      "name": "u酷资源站",
+      "link": "https://api.ukuzy.com/api.php/provide/vod",
+      "description": "u酷资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://api.ukuzy.com/api.php/provide/vod",
+        "status_code": null,
+        "response_time_ms": null,
+        "is_alive": false,
+        "error": "Connection Error"
+      }
+    },
+    {
+      "name": "优质资源站",
+      "link": "https://api.yzzy.com/api.php/provide/vod",
+      "description": "优质资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://api.yzzy.com/api.php/provide/vod",
+        "status_code": null,
+        "response_time_ms": null,
+        "is_alive": false,
+        "error": "Connection Error"
+      }
+    },
+    {
+      "name": "如意资源站",
+      "link": "https://api.ryzy.com/api.php/provide/vod",
+      "description": "如意资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://api.ryzy.com/api.php/provide/vod",
+        "status_code": 200,
+        "response_time_ms": 836.7,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "快车资源站",
+      "link": "https://api.kczy.com/api.php/provide/vod",
+      "description": "快车资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://api.kczy.com/api.php/provide/vod",
+        "status_code": null,
+        "response_time_ms": null,
+        "is_alive": false,
+        "error": "Connection Error"
+      }
+    },
+    {
+      "name": "新浪资源站",
+      "link": "https://api.xlzy.com/api.php/provide/vod",
+      "description": "新浪资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://api.xlzy.com/api.php/provide/vod",
+        "status_code": null,
+        "response_time_ms": null,
+        "is_alive": false,
+        "error": "Connection Error"
+      }
+    },
+    {
+      "name": "红牛资源站2",
+      "link": "https://api.hnzy2.com/api.php/provide/vod",
+      "description": "红牛资源站2，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://api.hnzy2.com/api.php/provide/vod",
+        "status_code": null,
+        "response_time_ms": null,
+        "is_alive": false,
+        "error": "Connection Error"
+      }
+    },
+    {
+      "name": "闪电资源",
+      "link": "https://api.sdzy.com/api.php/provide/vod",
+      "description": "闪电资源，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://api.sdzy.com/api.php/provide/vod",
+        "status_code": null,
+        "response_time_ms": null,
+        "is_alive": false,
+        "error": "Connection Error"
+      }
+    },
+    {
+      "name": "雅集资源站",
+      "link": "https://api.yjzy.com/api.php/provide/vod",
+      "description": "雅集资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://api.yjzy.com/api.php/provide/vod",
+        "status_code": null,
+        "response_time_ms": null,
+        "is_alive": false,
+        "error": "Connection Error"
+      }
+    },
+    {
+      "name": "ck资源站",
+      "link": "https://api.ckzy.com/api.php/provide/vod",
+      "description": "ck资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://api.ckzy.com/api.php/provide/vod",
+        "status_code": null,
+        "response_time_ms": null,
+        "is_alive": false,
+        "error": "Connection Error"
+      }
+    },
+    {
+      "name": "百度云资源站",
+      "link": "https://api.apibdzy.com/api.php/provide/vod",
+      "description": "百度云资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://api.apibdzy.com/api.php/provide/vod",
+        "status_code": 403,
+        "response_time_ms": 143.52,
+        "is_alive": false,
+        "error": null
+      }
+    },
+    {
+      "name": "艾旦资源站",
+      "link": "https://lovedan.net/api.php/provide/vod",
+      "description": "艾旦资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://lovedan.net/api.php/provide/vod",
+        "status_code": 403,
+        "response_time_ms": 124.69,
+        "is_alive": false,
+        "error": null
+      }
+    },
+    {
+      "name": "搜A-V资源站",
+      "link": "https://api.souavzyw.net/api.php/provide/vod",
+      "description": "搜A-V资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://api.souavzyw.net/api.php/provide/vod",
+        "status_code": 200,
+        "response_time_ms": 318.72,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "白嫖资源站",
+      "link": "https://www.kxgav.com/api/json.php",
+      "description": "白嫖资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://www.kxgav.com/api/json.php",
+        "status_code": 200,
+        "response_time_ms": 317.22,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "美少女资源站",
+      "link": "https://www.msnii.com/api/json.php",
+      "description": "美少女资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://www.msnii.com/api/json.php",
+        "status_code": 200,
+        "response_time_ms": 378.73,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "豆豆资源站",
+      "link": "https://api.douapi.cc/api.php/provide/vod",
+      "description": "豆豆资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://api.douapi.cc/api.php/provide/vod",
+        "status_code": 200,
+        "response_time_ms": 247.61,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "X色A-V资源站",
+      "link": "https://www.pgxdy.com/api/json.php",
+      "description": "X色A-V资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://www.pgxdy.com/api/json.php",
+        "status_code": 200,
+        "response_time_ms": 624.56,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "清水源资源站",
+      "link": "https://www.xrbsp.com/api/json.php",
+      "description": "清水源资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://www.xrbsp.com/api/json.php",
+        "status_code": 200,
+        "response_time_ms": 348.74,
+        "is_alive": true,
+        "error": null
+      }
+    },
+    {
+      "name": "香系源资源站",
+      "link": "https://www.gdlsp.com/api/json.php",
+      "description": "香系源资源站，分类: 影视",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://www.gdlsp.com/api/json.php",
+        "status_code": 200,
+        "response_time_ms": 362.41,
+        "is_alive": true,
+        "error": null
+      }
+    }
+  ],
+  "stats": {
+    "total": 71,
+    "alive": 54
+  }
+}
