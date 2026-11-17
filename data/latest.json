@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-17 10:22:29",
+  "timestamp": "2026-11-17 20:38:01",
   "source": "https://www.ziyuanzu.com",
   "resources": [
     {
@@ -11,10 +11,10 @@
       "resource_count": "-",
       "health": {
         "url": "https://360zy.com/api.php/provide/vod",
-        "status_code": 200,
-        "response_time_ms": 1493.81,
-        "is_alive": true,
-        "error": null
+        "status_code": null,
+        "response_time_ms": null,
+        "is_alive": false,
+        "error": "Timeout"
       }
     },
     {
@@ -27,7 +27,7 @@
       "health": {
         "url": "https://cj.yayazy.net/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 240.85,
+        "response_time_ms": 197.58,
         "is_alive": true,
         "error": null
       }
@@ -42,7 +42,7 @@
       "health": {
         "url": "https://api.guangsuapi.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 127.38,
+        "response_time_ms": 251.92,
         "is_alive": true,
         "error": null
       }
@@ -57,7 +57,7 @@
       "health": {
         "url": "https://tyyszyapi.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 230.45,
+        "response_time_ms": 260.61,
         "is_alive": true,
         "error": null
       }
@@ -72,7 +72,7 @@
       "health": {
         "url": "https://haohuazy.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 273.59,
+        "response_time_ms": 585.79,
         "is_alive": true,
         "error": null
       }
@@ -86,10 +86,10 @@
       "resource_count": "-",
       "health": {
         "url": "https://jipinvip1.com/api.php/provide/vod",
-        "status_code": null,
-        "response_time_ms": null,
-        "is_alive": false,
-        "error": "Timeout"
+        "status_code": 200,
+        "response_time_ms": 468.34,
+        "is_alive": true,
+        "error": null
       }
     },
     {
@@ -102,7 +102,7 @@
       "health": {
         "url": "https://api.wujinapi.me/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 76.99,
+        "response_time_ms": 79.36,
         "is_alive": true,
         "error": null
       }
@@ -117,7 +117,7 @@
       "health": {
         "url": "https://bfzyapi.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 112.47,
+        "response_time_ms": 388.35,
         "is_alive": true,
         "error": null
       }
@@ -132,7 +132,7 @@
       "health": {
         "url": "http://zuidazy.me/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 169.84,
+        "response_time_ms": 143.37,
         "is_alive": true,
         "error": null
       }
@@ -147,7 +147,7 @@
       "health": {
         "url": "https://jszyapi.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 126.05,
+        "response_time_ms": 295.51,
         "is_alive": true,
         "error": null
       }
@@ -161,10 +161,10 @@
       "resource_count": "-",
       "health": {
         "url": "https://iqiyizyapi.com/api.php/provide/vod",
-        "status_code": 200,
-        "response_time_ms": 1852.9,
-        "is_alive": true,
-        "error": null
+        "status_code": null,
+        "response_time_ms": null,
+        "is_alive": false,
+        "error": "Timeout"
       }
     },
     {
@@ -177,7 +177,7 @@
       "health": {
         "url": "https://api.niuniuzy.me/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 188.41,
+        "response_time_ms": 163.39,
         "is_alive": true,
         "error": null
       }
@@ -192,7 +192,7 @@
       "health": {
         "url": "https://suonizy.net/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 212.64,
+        "response_time_ms": 212.55,
         "is_alive": true,
         "error": null
       }
@@ -207,7 +207,7 @@
       "health": {
         "url": "http://hongniuzy2.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 128.85,
+        "response_time_ms": 168.32,
         "is_alive": true,
         "error": null
       }
@@ -222,7 +222,7 @@
       "health": {
         "url": "https://mtzy5.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 1224.57,
+        "response_time_ms": 1194.51,
         "is_alive": true,
         "error": null
       }
@@ -237,7 +237,7 @@
       "health": {
         "url": "https://huyazy.net/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 178.03,
+        "response_time_ms": 354.76,
         "is_alive": true,
         "error": null
       }
@@ -267,7 +267,7 @@
       "health": {
         "url": "https://subocj.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 113.71,
+        "response_time_ms": 722.42,
         "is_alive": true,
         "error": null
       }
@@ -282,7 +282,7 @@
       "health": {
         "url": "https://www.suboziyuan.net/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 596.34,
+        "response_time_ms": 554.72,
         "is_alive": true,
         "error": null
       }
@@ -297,7 +297,7 @@
       "health": {
         "url": "https://jyzyapi.com/provide/vod",
         "status_code": 200,
-        "response_time_ms": 116.42,
+        "response_time_ms": 553.44,
         "is_alive": true,
         "error": null
       }
@@ -312,7 +312,7 @@
       "health": {
         "url": "https://155api.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 125.62,
+        "response_time_ms": 63.86,
         "is_alive": true,
         "error": null
       }
@@ -327,7 +327,7 @@
       "health": {
         "url": "https://ffzy5.tv/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 686.46,
+        "response_time_ms": 75.33,
         "is_alive": true,
         "error": null
       }
@@ -342,7 +342,7 @@
       "health": {
         "url": "https://p2100.net/api.php/provide/vod",
         "status_code": 403,
-        "response_time_ms": 120.56,
+        "response_time_ms": 69.95,
         "is_alive": false,
         "error": null
       }
@@ -357,7 +357,7 @@
       "health": {
         "url": "https://jkunzyapi.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 133.72,
+        "response_time_ms": 240.09,
         "is_alive": true,
         "error": null
       }
@@ -372,7 +372,7 @@
       "health": {
         "url": "https://www.mdzyapi.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 527.26,
+        "response_time_ms": 360.87,
         "is_alive": true,
         "error": null
       }
@@ -387,7 +387,7 @@
       "health": {
         "url": "https://lbapi9.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 340.06,
+        "response_time_ms": 622.79,
         "is_alive": true,
         "error": null
       }
@@ -402,7 +402,7 @@
       "health": {
         "url": "https://dadiapi.com/api.php",
         "status_code": 200,
-        "response_time_ms": 866.82,
+        "response_time_ms": 810.99,
         "is_alive": true,
         "error": null
       }
@@ -417,7 +417,7 @@
       "health": {
         "url": "https://ikunzyapi.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 137.0,
+        "response_time_ms": 201.58,
         "is_alive": true,
         "error": null
       }
@@ -432,7 +432,7 @@
       "health": {
         "url": "https://apidanaizi.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 407.86,
+        "response_time_ms": 498.73,
         "is_alive": true,
         "error": null
       }
@@ -447,7 +447,7 @@
       "health": {
         "url": "https://aosikazy.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 217.47,
+        "response_time_ms": 142.6,
         "is_alive": true,
         "error": null
       }
@@ -462,7 +462,7 @@
       "health": {
         "url": "https://naixxzy.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 442.61,
+        "response_time_ms": 484.58,
         "is_alive": true,
         "error": null
       }
@@ -477,7 +477,7 @@
       "health": {
         "url": "https://api.xiaojizy.live/provide/vod",
         "status_code": 200,
-        "response_time_ms": 178.92,
+        "response_time_ms": 138.71,
         "is_alive": true,
         "error": null
       }
@@ -492,7 +492,7 @@
       "health": {
         "url": "https://thzy1.me/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 1066.6,
+        "response_time_ms": 1087.66,
         "is_alive": true,
         "error": null
       }
@@ -507,7 +507,7 @@
       "health": {
         "url": "https://slapibf.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 313.72,
+        "response_time_ms": 405.95,
         "is_alive": true,
         "error": null
       }
@@ -522,7 +522,7 @@
       "health": {
         "url": "https://m3u8.apiyhzy.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 319.79,
+        "response_time_ms": 475.74,
         "is_alive": true,
         "error": null
       }
@@ -537,7 +537,7 @@
       "health": {
         "url": "https://xxavs.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 419.59,
+        "response_time_ms": 325.62,
         "is_alive": true,
         "error": null
       }
@@ -552,7 +552,7 @@
       "health": {
         "url": "https://api.ddapi.cc/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 290.97,
+        "response_time_ms": 226.4,
         "is_alive": true,
         "error": null
       }
@@ -567,7 +567,7 @@
       "health": {
         "url": "https://apiyutu.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 161.86,
+        "response_time_ms": 263.45,
         "is_alive": true,
         "error": null
       }
@@ -582,7 +582,7 @@
       "health": {
         "url": "http://fhapi9.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 510.3,
+        "response_time_ms": 513.04,
         "is_alive": true,
         "error": null
       }
@@ -597,7 +597,7 @@
       "health": {
         "url": "https://fqzy.me/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 982.96,
+        "response_time_ms": 1055.19,
         "is_alive": true,
         "error": null
       }
@@ -627,7 +627,7 @@
       "health": {
         "url": "https://www.jingpinx.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 974.58,
+        "response_time_ms": 1054.41,
         "is_alive": true,
         "error": null
       }
@@ -657,7 +657,7 @@
       "health": {
         "url": "https://apilsbzy1.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 203.76,
+        "response_time_ms": 284.03,
         "is_alive": true,
         "error": null
       }
@@ -672,7 +672,7 @@
       "health": {
         "url": "https://caiji.semaozy.net/inc/api.php",
         "status_code": 200,
-        "response_time_ms": 241.41,
+        "response_time_ms": 300.52,
         "is_alive": true,
         "error": null
       }
@@ -687,7 +687,7 @@
       "health": {
         "url": "https://api.vnzyz.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 676.85,
+        "response_time_ms": 759.69,
         "is_alive": true,
         "error": null
       }
@@ -702,7 +702,7 @@
       "health": {
         "url": "https://apilj.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 745.65,
+        "response_time_ms": 814.73,
         "is_alive": true,
         "error": null
       }
@@ -732,7 +732,7 @@
       "health": {
         "url": "https://shayuapi.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 875.07,
+        "response_time_ms": 939.83,
         "is_alive": true,
         "error": null
       }
@@ -747,7 +747,7 @@
       "health": {
         "url": "https://91md.me/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 271.91,
+        "response_time_ms": 445.46,
         "is_alive": true,
         "error": null
       }
@@ -762,7 +762,7 @@
       "health": {
         "url": "https://hsckzy888.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 183.66,
+        "response_time_ms": 1495.1,
         "is_alive": true,
         "error": null
       }
@@ -777,7 +777,7 @@
       "health": {
         "url": "https://heiliaozyapi.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 1041.2,
+        "response_time_ms": 996.31,
         "is_alive": true,
         "error": null
       }
@@ -837,7 +837,7 @@
       "health": {
         "url": "https://api.ryzy.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 756.51,
+        "response_time_ms": 754.93,
         "is_alive": true,
         "error": null
       }
@@ -942,7 +942,7 @@
       "health": {
         "url": "https://api.apibdzy.com/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 164.25,
+        "response_time_ms": 275.68,
         "is_alive": true,
         "error": null
       }
@@ -957,7 +957,7 @@
       "health": {
         "url": "https://lovedan.net/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 833.04,
+        "response_time_ms": 762.63,
         "is_alive": true,
         "error": null
       }
@@ -972,7 +972,7 @@
       "health": {
         "url": "https://api.souavzyw.net/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 171.63,
+        "response_time_ms": 152.01,
         "is_alive": true,
         "error": null
       }
@@ -987,7 +987,7 @@
       "health": {
         "url": "https://www.kxgav.com/api/json.php",
         "status_code": 200,
-        "response_time_ms": 291.73,
+        "response_time_ms": 328.88,
         "is_alive": true,
         "error": null
       }
@@ -1002,7 +1002,7 @@
       "health": {
         "url": "https://www.msnii.com/api/json.php",
         "status_code": 200,
-        "response_time_ms": 293.1,
+        "response_time_ms": 355.29,
         "is_alive": true,
         "error": null
       }
@@ -1017,7 +1017,7 @@
       "health": {
         "url": "https://api.douapi.cc/api.php/provide/vod",
         "status_code": 200,
-        "response_time_ms": 275.68,
+        "response_time_ms": 491.07,
         "is_alive": true,
         "error": null
       }
@@ -1032,7 +1032,7 @@
       "health": {
         "url": "https://www.pgxdy.com/api/json.php",
         "status_code": 200,
-        "response_time_ms": 209.84,
+        "response_time_ms": 309.06,
         "is_alive": true,
         "error": null
       }
@@ -1047,7 +1047,7 @@
       "health": {
         "url": "https://www.xrbsp.com/api/json.php",
         "status_code": 200,
-        "response_time_ms": 980.52,
+        "response_time_ms": 509.28,
         "is_alive": true,
         "error": null
       }
@@ -1062,314 +1062,14 @@
       "health": {
         "url": "https://www.gdlsp.com/api/json.php",
         "status_code": 200,
-        "response_time_ms": 253.8,
-        "is_alive": true,
-        "error": null
-      }
-    },
-    {
-      "name": "新极品资源站",
-      "link": "https://www.ziyuanzu.com/source/xinjipinziyuanzhan",
-      "description": "新极品资源采集站，无广告无水印秒播。可用率: 100%，资源量: 34836，响应速度: 极速，分类: 影视，标签: 无广告、无水印、秒播、极品",
-      "status": "未知",
-      "uptime": "100%",
-      "resource_count": "34836",
-      "health": {
-        "url": "https://www.ziyuanzu.com/source/xinjipinziyuanzhan",
-        "status_code": 200,
-        "response_time_ms": 360.41,
-        "is_alive": true,
-        "error": null
-      }
-    },
-    {
-      "name": "暴风资源站",
-      "link": "https://www.ziyuanzu.com/source/baofengziyuanzhan",
-      "description": "暴风资源采集站，秒播体验无水印。可用率: 100%，资源量: 155624，响应速度: 极速，分类: 影视，标签: 秒播、无水印、稳定",
-      "status": "未知",
-      "uptime": "100%",
-      "resource_count": "155624",
-      "health": {
-        "url": "https://www.ziyuanzu.com/source/baofengziyuanzhan",
-        "status_code": 200,
-        "response_time_ms": 305.34,
-        "is_alive": true,
-        "error": null
-      }
-    },
-    {
-      "name": "360资源站",
-      "link": "https://www.ziyuanzu.com/source/360ziyuanzhan",
-      "description": "360资源采集站，提供影视资源API接口。可用率: 99.999%，资源量: 65092，响应速度: 极速，分类: 影视，标签: 影视资源、采集站、API",
-      "status": "未知",
-      "uptime": "99.999%",
-      "resource_count": "65092",
-      "health": {
-        "url": "https://www.ziyuanzu.com/source/360ziyuanzhan",
-        "status_code": 200,
-        "response_time_ms": 100.52,
-        "is_alive": true,
-        "error": null
-      }
-    },
-    {
-      "name": "豪华资源站",
-      "link": "https://www.ziyuanzu.com/source/haohuaziyuanzhan",
-      "description": "豪华资源采集站，无广告无水印。可用率: 100%，资源量: 109781，响应速度: 极速，分类: 影视，标签: 无广告、无水印、采集站",
-      "status": "未知",
-      "uptime": "100%",
-      "resource_count": "109781",
-      "health": {
-        "url": "https://www.ziyuanzu.com/source/haohuaziyuanzhan",
-        "status_code": 200,
-        "response_time_ms": 100.58,
-        "is_alive": true,
-        "error": null
-      }
-    },
-    {
-      "name": "无尽资源站",
-      "link": "https://www.ziyuanzu.com/source/wujinziyuanzhan",
-      "description": "无尽资源采集站，资源丰富稳定。可用率: 100%，资源量: 118352，响应速度: 极速，分类: 影视，标签: 资源丰富、稳定、采集站",
-      "status": "未知",
-      "uptime": "100%",
-      "resource_count": "118352",
-      "health": {
-        "url": "https://www.ziyuanzu.com/source/wujinziyuanzhan",
-        "status_code": 200,
-        "response_time_ms": 100.12,
-        "is_alive": true,
-        "error": null
-      }
-    },
-    {
-      "name": "最大资源站",
-      "link": "https://www.ziyuanzu.com/source/zuidaziyuanzhan",
-      "description": "最大资源采集站，资源量最大。可用率: 99.999%，资源量: 122059，响应速度: 一般，分类: 影视，标签: 资源量大、老牌、稳定",
-      "status": "未知",
-      "uptime": "99.999%",
-      "resource_count": "122059",
-      "health": {
-        "url": "https://www.ziyuanzu.com/source/zuidaziyuanzhan",
-        "status_code": 200,
-        "response_time_ms": 81.91,
-        "is_alive": true,
-        "error": null
-      }
-    },
-    {
-      "name": "牛牛资源",
-      "link": "https://www.ziyuanzu.com/source/niuniuziyuan",
-      "description": "牛牛资源采集站，稳定高速。可用率: 100%，资源量: 122054，响应速度: 极速，分类: 影视，标签: 稳定、高速、采集站",
-      "status": "未知",
-      "uptime": "100%",
-      "resource_count": "122054",
-      "health": {
-        "url": "https://www.ziyuanzu.com/source/niuniuziyuan",
-        "status_code": 200,
-        "response_time_ms": 483.2,
-        "is_alive": true,
-        "error": null
-      }
-    },
-    {
-      "name": "红牛资源站",
-      "link": "https://www.ziyuanzu.com/source/hongniuziyuanzhan",
-      "description": "红牛资源采集站，m3u8直链，老牌稳定。可用率: 100%，资源量: 110170，响应速度: 一般，分类: 影视，标签: 老牌、稳定、m3u8",
-      "status": "未知",
-      "uptime": "100%",
-      "resource_count": "110170",
-      "health": {
-        "url": "https://www.ziyuanzu.com/source/hongniuziyuanzhan",
-        "status_code": 200,
-        "response_time_ms": 348.96,
-        "is_alive": true,
-        "error": null
-      }
-    },
-    {
-      "name": "魔都资源站",
-      "link": "https://www.ziyuanzu.com/source/modouziyuanzhan",
-      "description": "魔都资源采集站，资源丰富稳定。可用率: 100%，资源量: 87346，响应速度: 一般，分类: 影视，标签: 资源丰富、稳定、采集站",
-      "status": "未知",
-      "uptime": "100%",
-      "resource_count": "87346",
-      "health": {
-        "url": "https://www.ziyuanzu.com/source/modouziyuanzhan",
-        "status_code": 200,
-        "response_time_ms": 94.78,
-        "is_alive": true,
-        "error": null
-      }
-    },
-    {
-      "name": "辣椒资源站",
-      "link": "https://www.ziyuanzu.com/source/lajiaoziyuanzhan",
-      "description": "辣椒资源采集站，提供影视资源API接口。可用率: 100%，资源量: 215196，响应速度: 一般，分类: 影视，标签: 高清、采集站、影视资源",
-      "status": "未知",
-      "uptime": "100%",
-      "resource_count": "215196",
-      "health": {
-        "url": "https://www.ziyuanzu.com/source/lajiaoziyuanzhan",
-        "status_code": 200,
-        "response_time_ms": 89.41,
-        "is_alive": true,
-        "error": null
-      }
-    },
-    {
-      "name": "奶香香资源站",
-      "link": "https://www.ziyuanzu.com/source/naixiangxiangziyuanzhan",
-      "description": "奶香香资源采集站，提供影视资源API接口。可用率: 99.991%，资源量: 169704，响应速度: 较慢，分类: 影视，标签: 极速、综合、API",
-      "status": "未知",
-      "uptime": "99.991%",
-      "resource_count": "169704",
-      "health": {
-        "url": "https://www.ziyuanzu.com/source/naixiangxiangziyuanzhan",
-        "status_code": 200,
-        "response_time_ms": 532.9,
-        "is_alive": true,
-        "error": null
-      }
-    },
-    {
-      "name": "鸭鸭资源站",
-      "link": "https://www.ziyuanzu.com/source/yayaziyuanzhan",
-      "description": "丫丫资源采集站，资源丰富稳定。可用率: 100%，资源量: 120094，响应速度: 极速，分类: 影视，标签: 稳定、资源丰富、采集站",
-      "status": "未知",
-      "uptime": "100%",
-      "resource_count": "120094",
-      "health": {
-        "url": "https://www.ziyuanzu.com/source/yayaziyuanzhan",
-        "status_code": 200,
-        "response_time_ms": 352.64,
-        "is_alive": true,
-        "error": null
-      }
-    },
-    {
-      "name": "天涯影视资源站",
-      "link": "https://www.ziyuanzu.com/source/tianyayingshiziyuanzhan",
-      "description": "天涯影视资源采集站，稳定可靠。可用率: 100%，资源量: 69255，响应速度: 一般，分类: 影视，标签: 稳定、影视资源、采集站",
-      "status": "未知",
-      "uptime": "100%",
-      "resource_count": "69255",
-      "health": {
-        "url": "https://www.ziyuanzu.com/source/tianyayingshiziyuanzhan",
-        "status_code": 200,
-        "response_time_ms": 309.77,
-        "is_alive": true,
-        "error": null
-      }
-    },
-    {
-      "name": "极速资源站",
-      "link": "https://www.ziyuanzu.com/source/jisuziyuanzhan",
-      "description": "极速资源采集站，JSON接口。可用率: 100%，资源量: 109012，响应速度: 极速，分类: 影视，标签: 极速、JSON、采集站",
-      "status": "未知",
-      "uptime": "100%",
-      "resource_count": "109012",
-      "health": {
-        "url": "https://www.ziyuanzu.com/source/jisuziyuanzhan",
-        "status_code": 200,
-        "response_time_ms": 108.55,
-        "is_alive": true,
-        "error": null
-      }
-    },
-    {
-      "name": "爱奇艺资源站",
-      "link": "https://www.ziyuanzu.com/source/aiqiyiziyuanzhan",
-      "description": "爱奇艺资源采集站，资源丰富。可用率: 99.996%，资源量: 66282，响应速度: 一般，分类: 影视，标签: 资源丰富、稳定、采集站",
-      "status": "未知",
-      "uptime": "99.996%",
-      "resource_count": "66282",
-      "health": {
-        "url": "https://www.ziyuanzu.com/source/aiqiyiziyuanzhan",
-        "status_code": 200,
-        "response_time_ms": 100.41,
-        "is_alive": true,
-        "error": null
-      }
-    },
-    {
-      "name": "猫眼资源",
-      "link": "https://www.ziyuanzu.com/source/maoyanziyuan",
-      "description": "猫眼资源采集站，稳定可靠。可用率: 99.991%，资源量: 33816，响应速度: 一般，分类: 影视，标签: 稳定、可靠、采集站",
-      "status": "未知",
-      "uptime": "99.991%",
-      "resource_count": "33816",
-      "health": {
-        "url": "https://www.ziyuanzu.com/source/maoyanziyuan",
-        "status_code": 200,
-        "response_time_ms": 99.02,
-        "is_alive": true,
-        "error": null
-      }
-    },
-    {
-      "name": "索尼采集站",
-      "link": "https://www.ziyuanzu.com/source/suonicaijizhan",
-      "description": "索尼采集站，资源丰富稳定。可用率: 100%，资源量: 142785，响应速度: 一般，分类: 影视，标签: 资源丰富、稳定、采集站",
-      "status": "未知",
-      "uptime": "100%",
-      "resource_count": "142785",
-      "health": {
-        "url": "https://www.ziyuanzu.com/source/suonicaijizhan",
-        "status_code": 200,
-        "response_time_ms": 104.03,
-        "is_alive": true,
-        "error": null
-      }
-    },
-    {
-      "name": "虎牙资源站",
-      "link": "https://www.ziyuanzu.com/source/huyaziyuanzhan",
-      "description": "虎牙资源采集站，资源丰富。可用率: 99.999%，资源量: 109686，响应速度: 一般，分类: 影视，标签: 资源丰富、稳定、采集站",
-      "status": "未知",
-      "uptime": "99.999%",
-      "resource_count": "109686",
-      "health": {
-        "url": "https://www.ziyuanzu.com/source/huyaziyuanzhan",
-        "status_code": 200,
-        "response_time_ms": 102.62,
-        "is_alive": true,
-        "error": null
-      }
-    },
-    {
-      "name": "速播资源站",
-      "link": "https://www.ziyuanzu.com/source/suboziyuanzhan",
-      "description": "速播资源采集站，JSON接口。可用率: 100%，资源量: 110682，响应速度: 一般，分类: 影视，标签: JSON、稳定、采集站",
-      "status": "未知",
-      "uptime": "100%",
-      "resource_count": "110682",
-      "health": {
-        "url": "https://www.ziyuanzu.com/source/suboziyuanzhan",
-        "status_code": 200,
-        "response_time_ms": 109.18,
-        "is_alive": true,
-        "error": null
-      }
-    },
-    {
-      "name": "金鹰资源站",
-      "link": "https://www.ziyuanzu.com/source/jinyingziyuanzhan",
-      "description": "金鹰资源采集站，m3u8直链。可用率: 99.999%，资源量: 110746，响应速度: 一般，分类: 影视，标签: m3u8、直链、稳定",
-      "status": "未知",
-      "uptime": "99.999%",
-      "resource_count": "110746",
-      "health": {
-        "url": "https://www.ziyuanzu.com/source/jinyingziyuanzhan",
-        "status_code": 200,
-        "response_time_ms": 100.93,
+        "response_time_ms": 289.59,
         "is_alive": true,
         "error": null
       }
     }
   ],
   "stats": {
-    "total": 91,
-    "alive": 76
+    "total": 71,
+    "alive": 55
   }
 }
